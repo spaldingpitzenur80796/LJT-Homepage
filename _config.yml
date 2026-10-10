@@ -14,7 +14,6 @@ title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio"
 url                      : https://spaldingpitzenur80796.github.io # The base hostname & protocol for your site
-tbaseurl_unused            :
 baseurl                  : "/LJT-Homepage" # the subpath of your site
 repository               : "spaldingpitzenur80796/LJT-Homepage"
 
